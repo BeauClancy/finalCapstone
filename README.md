@@ -60,7 +60,7 @@ Add new test cases when desiring to check further reviews.
 To do so, call the `predict_review_sentiment` function with a selected review.
 Print out the result to judge the accuracy of the sentiment analysis.
 
-### _Usage example:_
+#### _Usage example:_
 
 ```
 # Test case
