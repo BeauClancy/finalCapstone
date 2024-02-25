@@ -9,7 +9,7 @@
 - [Running the project locally](#running-the-project-locally)
   * [Installation](#installation)
   * [Usage](#usage)
-    + [_Usage example:_](#-usage-example--)
+    + [Usage example](#-usage-example--)
 - [Credits](#credits)
 
 
