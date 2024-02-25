@@ -62,9 +62,18 @@ Print out the result to judge the accuracy of the sentiment analysis.
 
 Example:
 
-```print(predict_review_sentiment(reviews_data[490]))```
+```
+# Test case
+print(reviews_data[1])
+# Printed cleaned review:
+# great beginner experienced person bought gift loves
 
-TODO: ADD SCREENSHOT
+print(predict_review_sentiment(reviews_data[1]))
+# Printed result of the sentiment analysis:
+# The sentiment of the review is positive, with a polarity of 0.8.
+```
+
+<img width="591" alt="capstone" src="https://github.com/BeauClancy/finalCapstone/assets/82422556/d04fc290-eb4c-4a05-884d-c7636cc52bbc">
 
 
 ## Credits
