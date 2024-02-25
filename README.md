@@ -6,9 +6,10 @@
 - [Aim](#aim)
 - [Steps](#steps)
 - [Tech stack](#tech-stack)
-- [Local usage](#local-usage)
+- [Running the project locally](#running-the-project-locally)
   * [Installation](#installation)
-  * [Local use](#local-use)
+  * [Usage](#usage)
+    + [_Usage example:_](#-usage-example--)
 - [Credits](#credits)
 
 
