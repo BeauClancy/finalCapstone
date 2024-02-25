@@ -61,7 +61,8 @@ To do so,call the `predict_review_sentiment` function with a selected review.
 Print out the result to judge the accuracy of the sentiment analysis.
 
 Example:
-`print(predict_review_sentiment(reviews_data[490]))`
+
+```print(predict_review_sentiment(reviews_data[490]))```
 
 TODO: ADD SCREENSHOT
 
