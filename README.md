@@ -6,7 +6,7 @@
 - [Aim](#aim)
 - [Steps](#steps)
 - [Tech stack](#tech-stack)
-  * [Local usage](#local-usage)
+- [Local usage](#local-usage)
   * [Installation](#installation)
   * [Local use](#local-use)
 - [Credits](#credits)
@@ -26,7 +26,9 @@ The **Capstone Project** was completed for the **CoGrammar Skills Bootcamp in Da
 The aim of the project was to investigate how performant and accurate the used NLP was for
 sentiment analysis of reviews.
 
+
 ## Steps
+
 Steps performed within this project were:
 
 1. Loading of small english spaCy model for natural language processing tasks
@@ -43,14 +45,15 @@ Steps performed within this project were:
 - (`spacy`)[https://spacy.io/]: tokenization and cleaning of data
 - (`textblob`)[https://textblob.readthedocs.io/en/dev/]: sentiment analysis of data
 
-### Local usage
+
+## Running the project locally
 
 ### Installation
 
 To run the project locally, install the required libraries (mentioned under Tech stack)
 and run the code within a Python environment.
 
-### Local use
+### Usage
 
 Add new test cases when desiring to check further reviews.
 
@@ -61,6 +64,7 @@ Example:
 `print(predict_review_sentiment(reviews_data[490]))`
 
 TODO: ADD SCREENSHOT
+
 
 ## Credits
 
