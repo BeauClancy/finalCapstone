@@ -2,15 +2,14 @@
 
 ## Table of Contents:
 
-- [Capstone Project](#capstone-project)
-  * [Description](#description)
-  * [Aim](#aim)
-  * [Steps](#steps)
-  * [Tech stack](#tech-stack)
-    + [Local usage](#local-usage)
-    + [Installation](#installation)
-    + [Local use](#local-use)
-  * [Credits](#credits)
+- [Description](#description)
+- [Aim](#aim)
+- [Steps](#steps)
+- [Tech stack](#tech-stack)
+  * [Local usage](#local-usage)
+  * [Installation](#installation)
+  * [Local use](#local-use)
+- [Credits](#credits)
 
 
 ## Description
