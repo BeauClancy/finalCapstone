@@ -40,10 +40,10 @@ Steps performed within this project were:
 
 ## Tech stack
 
-- (`python`)[https://www.python.org/]: overall programming and processing of data
-- (`pandas`)[https://pandas.pydata.org/]: importing and reading of data
-- (`spacy`)[https://spacy.io/]: tokenization and cleaning of data
-- (`textblob`)[https://textblob.readthedocs.io/en/dev/]: sentiment analysis of data
+- [`python`](https://www.python.org/): overall programming and processing of data
+- [`pandas`](https://pandas.pydata.org/): importing and reading of data
+- [`spacy`](https://spacy.io/): tokenization and cleaning of data
+- [`textblob`](https://textblob.readthedocs.io/en/dev/): sentiment analysis of data
 
 
 ## Running the project locally
@@ -57,7 +57,7 @@ and run the code within a Python environment.
 
 Add new test cases when desiring to check further reviews.
 
-To do so,call the `predict_review_sentiment` function with a selected review.
+To do so, call the `predict_review_sentiment` function with a selected review.
 Print out the result to judge the accuracy of the sentiment analysis.
 
 Example:
@@ -69,7 +69,7 @@ TODO: ADD SCREENSHOT
 
 ## Credits
 
-The used data set was provided by (Datafiniti's Product Database via Kaggle)[https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products].
+The used data set was provided by [Datafiniti's Product Database via Kaggle](https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products).
 
 The project idea was provided by Hyperion Dev within the framework of the
 **CoGrammar Skills Bootcamp in Data Science (Fundamentals)**.
