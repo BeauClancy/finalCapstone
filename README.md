@@ -1,3 +1,7 @@
+# Capstone Project
+
+## Table of Contents:
+
 - [Capstone Project](#capstone-project)
   * [Description](#description)
   * [Aim](#aim)
